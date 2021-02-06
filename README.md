@@ -27,10 +27,11 @@ ii. Clone the repository using CLR (Command Line Interface) of your choice as fo
 1. HTML
 2. CSS
 3. Bootstrap
-* Integrated Development Environment (IDE):
 
+* Integrated Development Environment (IDE):
 1. Visual Studio Code
-2. Code Versioning Tool:
+2. Code Versioning Tool
+
 * code Versioning Tool:
 
 - Git using Github
