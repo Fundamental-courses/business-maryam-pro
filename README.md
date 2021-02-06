@@ -20,14 +20,14 @@ ii. Clone the repository using CLR (Command Line Interface) of your choice as fo
 - Copy  and past it into the CLR then hit Enter
 * You can then use any text editor of your choice to view the code. VScode or Atom are recommended though.
 
-#Technologies used
+# Technologies used
 
-*Programming languages:
+* Programming languages:
 
 1. HTML
 2. CSS
 3. Bootstrap
-*Integrated Development Environment (IDE):
+* Integrated Development Environment (IDE):
 
 1. Visual Studio Code
 2. Code Versioning Tool:
