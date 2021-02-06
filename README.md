@@ -1,5 +1,5 @@
 # business-maryam-pro
-# business-maryam-pro
+
 ## Why we did this?
 
 * This site is designed to master the practice of HTML and also the addition of CSS language.
@@ -31,11 +31,11 @@ ii. Clone the repository using CLR (Command Line Interface) of your choice as fo
 
 1. Visual Studio Code
 2. Code Versioning Tool:
-*code Versioning Tool;
+* code Versioning Tool:
 
--Git using Github
-#Team Members:
-*done by mariam
+- Git using Github
+# Team Members:
+* done by mariam
 
-#Github Pages Link:
+# Github Pages Link:
 https://fundamental-courses.github.io/business-maryam-pro/
